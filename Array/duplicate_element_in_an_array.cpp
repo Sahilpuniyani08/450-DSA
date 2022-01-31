@@ -14,7 +14,7 @@ vector<int> p;
      cin>>arr[i];
 
  }
- //first sort the whole array 
+ //first sort the whole array. 
  sort(arr,arr+n);
 
  //compare each of the ith element with (i+1)th if both are equal that elemet is present twice in an array
